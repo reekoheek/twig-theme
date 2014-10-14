@@ -1,0 +1,14 @@
+{
+    "name": "reekoheek/twig-theme",
+    "description": "Twig theme for Bono PHP Framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ganesha",
+            "email": "reekoheek@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "1.*"
+    }
+}
